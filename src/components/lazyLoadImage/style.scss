@@ -1,0 +1,6 @@
+.gradient-box {
+    border-radius: 10px; /* !importanté */
+    background-clip: padding-box; 
+    background: linear-gradient(to right, red, orange);
+    border: solid 4px transparent; 
+  }
